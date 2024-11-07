@@ -14,6 +14,7 @@ langchain-openai
 tiktoken
 python-dotenv
 langchain-community
+ipython
 
 
 
