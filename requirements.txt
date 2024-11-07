@@ -14,3 +14,15 @@ langchain-openai
 tiktoken
 python-dotenv
 langchain-community
+
+
+
+# File handling and utils
+python-magic
+pdf2image
+Pillow
+
+# Additional utilities
+numpy>=1.24.3
+pandas>=2.1.3
+python-dateutil>=2.8.2
